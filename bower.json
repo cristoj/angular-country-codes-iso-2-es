@@ -1,0 +1,10 @@
+{
+  "name": "iso-3166-country-codes-angular-es",
+  "version": "1.2.3",
+  "main": "src/iso-3166-country-codes-angular-es.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
