@@ -1,10 +1,10 @@
 {
-  "name": "iso-3166-country-codes-angular-es",
-  "version": "1.2.3",
+  "name": "angular-country-codes-iso-2-es",
+  "version": "1.0.0",
   "description": "An AngularJS module to work with Country Codes",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cristoj/iso-3166-country-codes-angular-es.git"
+    "url": "https://github.com/cristoj/angular-country-codes-iso-2-es.git"
   },
   "main": "index.js",
   "keywords": [
@@ -16,7 +16,7 @@
   "author": "Romain Sertelon",
   "license": "Public Domain",
   "bugs": {
-    "url": "https://github.com/cristoj/iso-3166-country-codes-angular-es/issues"
+    "url": "https://github.com/cristoj/angular-country-codes-iso-2-es/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
